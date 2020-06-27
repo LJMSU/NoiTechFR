@@ -2,5 +2,5 @@ name: "LJMSU.noisetech.fr"
 displayName: "[white]NoiseTech[][yellow]FusionReactor[]"
 author: "[sky]LJMSU[]"
 version: "0.1-104.10"
-description: "\n[gray]An add-on to the mod NoiTech that adds fusion reactor technology.[]\nCredits:\n> [#dc2eff]A[#c72fff]us[#b131ff]er[#9e32ff]wa[#8333ff]ul[#7135ff]th (co-developer)\n[white]> [darkgray]XZimur[]\n\nLinks:\n>  [white]NoiseTech[][darkgray]Discord:  https://discord.gg/NcuNTQx[]\n>  [white]NoiseTech[][darkgray]GitHub:  https://github.com/XZimur/NoiTech[]\n>  [darkgray]GitHub:  https://github.com/LJMSU/NoiTechFR[]"
+description: "\n[gray]An add-on to the mod NoiTech that adds fusion reactor technology.[]\nCredits:\n> [#dc2eff]A[][#c72fff]us[][#b131ff]er[][#9e32ff]wa[][#8333ff]ul[][#7135ff]th[] (co-developer)\n> [darkgray]XZimur (NoiseTech developer)[]\n\nLinks:\n>  [white]NoiseTech[][darkgray]Discord:  https://discord.gg/NcuNTQx[]\n>  [white]NoiseTech[][darkgray]GitHub:  https://github.com/XZimur/NoiTech[]\n>  [darkgray]GitHub:  https://github.com/LJMSU/NoiTechFR[]"
 dependencies: [ ]
