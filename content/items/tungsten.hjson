@@ -1,0 +1,6 @@
+type: material
+name: Tungsten
+description: A high heat-resistance mineral used in advanced material production.
+hardness: 2
+cost: 2
+color: 767980
