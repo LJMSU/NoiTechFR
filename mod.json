@@ -1,7 +1,0 @@
-name: Mod Name
-displayName: NoiTech FusionReactor
-author: LJMSU and Auserwaulth
-description: An add-on of the mod NoiTech that adds fusion reactor tech.
-version: "1.0"
-minGameVersion: "104.6"
-dependencies: [XZimur/NoiTech]
