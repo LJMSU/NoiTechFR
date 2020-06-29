@@ -1,1 +1,8 @@
-lol
+type: impactReactor
+name: Fusion Reactor
+description: A massive reactor, generating power using nuclear fusion between deuterium and tritium. Requires liquid helium to work.
+outputLiquid: [
+    water/1
+]
+hasLiquids: true
+size: 5
