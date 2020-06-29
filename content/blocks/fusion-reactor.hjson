@@ -1,9 +1,40 @@
-type: impactReactor
+type: GenericCrafter
 name: Fusion Reactor
-description: A massive reactor, generating power using nuclear fusion between deuterium and tritium. Requires liquid helium to work.
-outputLiquid: [
-    water/1
-]
-hasLiquids: true
+description: Produces steam from a nuclear fusion reaction.
 size: 5
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemDuration: 30
+consumes: {
+  items: {
+    items: [
+      deuterium/5
+      tritium/5
+    ]
+    optional: true
+  }
+  liquid: {
+    liquid : liquid-helium
+    amount : 1
+  }
+  power: 2
+}
+
+outputLiquid: {
+    liquid: steam
+    amount: 100
+}
+
+requirements: [
+  lead/500
+  copper/400
+  silicon/300
+  graphite/400
+  thorium/200
+  metaglass/500
+  concrete/500
+]
+
 category: power
+research: impact-reactor
